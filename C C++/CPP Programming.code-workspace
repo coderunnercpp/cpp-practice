@@ -1,0 +1,104 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Recursion"
+		},
+		{
+			"path": "..\\2-D Array"
+		},
+		{
+			"path": "..\\charcter array"
+		},
+		{
+			"path": "..\\Oops Concept"
+		},
+		{
+			"path": "..\\Graph"
+		},
+		{
+			"path": "..\\Strings"
+		},
+		{
+			"path": "..\\Bit Manipulation"
+		},
+		{
+			"path": "..\\Seive of Eratosthenes"
+		},
+		{
+			"path": "..\\Inclusion_Exclusion"
+		},
+		{
+			"path": "..\\Permutation"
+		},
+		{
+			"path": "..\\BackTracking"
+		},
+		{
+			"path": "..\\Sorting"
+		},
+		{
+			"path": "..\\Linked_List"
+		},
+		{
+			"path": "..\\Stack"
+		},
+		{
+			"path": "..\\Array"
+		},
+		{
+			"path": "..\\Practice(Function)"
+		},
+		{
+			"path": "..\\Queue"
+		},
+		{
+			"path": "..\\stack using queue"
+		},
+		{
+			"path": "..\\Templates"
+		},
+		{
+			"path": "..\\STL"
+		},
+		{
+			"path": "..\\Two pointers"
+		},
+		{
+			"path": "..\\Sliding Windows"
+		},
+		{
+			"path": "..\\SAP LABS"
+		},
+		{
+			"path": "..\\vector in C++"
+		},
+		{
+			"path": "..\\Binary Trees"
+		},
+		{
+			"path": "..\\Binary Search Tree"
+		},
+		{
+			"path": "..\\Prateek Narang"
+		},
+		{
+			"path": "..\\Binary_Search"
+		},
+		{
+			"path": "..\\Heaps"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"random": "cpp",
+			"*.tcc": "cpp",
+			"exception": "cpp",
+			"stack": "cpp",
+			"variant": "cpp"
+		}
+	}
+}
